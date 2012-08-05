@@ -1,0 +1,19 @@
+{
+  "author": "Rameshv <rameshvel@gmail.com>",
+  "name": "untemplator",
+  "description": "Pre-compiled javscript Templates using underscore.js",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Rameshv/untemplator.git"
+  },
+  "engines": {
+    "node": ">=0.4.7"
+  },
+  "dependencies": {
+    "underscore": ">=1.3"
+  },  
+  "homepage": "https://github.com/Rameshv/untemplator.git",
+  "main": "./lib/index.js",  
+  "bin": { "untemplate": "./bin/untemplate.js" }
+}
