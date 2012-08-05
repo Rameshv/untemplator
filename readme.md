@@ -13,8 +13,7 @@ line tool.
 
 ## Basic usage
 
-Incant jquery-tmpl-jst into your application with a require statement,
-and jquery-tmpl-just will expose 2 functions: `build` and `process`
+Untemplaor will expose 2 functions: `build` and `process`
 
     var tmpl = require('untemplator');
 
